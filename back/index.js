@@ -6,8 +6,9 @@ const express =require('express')
 const bodyParser=require('body-parser');
 const cookieParser=require('cookie-parser');
 const app=express()
+//kXwvhLWLltPNpnQB
 
-mongoose.connect('mongodb://localhost:27017/gamingrealm',{
+mongoose.connect('mongodb+srv://vipulsingh080603:kXwvhLWLltPNpnQB@cluster0.ejsamkw.mongodb.net/?retryWrites=true&w=majority',{
     useNewUrlParser:true,
     useUnifiedTopology:true
 }).then(()=>{
