@@ -6,6 +6,7 @@ import Signup from "./components/signup/signup"
 import Homepage from './components/homepage/homepage';
 import Forgot from './components/forgot/forgot';
 import Reset from './components/reset/reset';
+import Upload from './components/upload/upload';
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
 
 function App(){
@@ -32,6 +33,7 @@ function App(){
         <Route path="/signup"element={<Signup/>}></Route>
         <Route path="/forgot"element={<Forgot/>}></Route>
         <Route path="/reset"element={<Reset/>}></Route>
+        <Route path="/upload"element={<Upload/>}></Route>
       </Routes>
       
     </Router>
