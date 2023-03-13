@@ -59,8 +59,76 @@ const Homepage = ({ setLoginUser }) => {
       </form>
     </div>
   </div>
-</nav>
-        
+        </nav>
+        <div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <i class="material-icons">favorite_border</i>
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+          <div className="card home-card">
+            <h5>Keshav Raj</h5>
+            <div className="card-image">
+              <img src = "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"/>
+            </div>
+            <div className="card-content">
+              <h6>Title</h6>
+              <p>Woah!!!So good</p>
+              <input type="text" placeholder="Add a Comment"/>
+            </div>
+          </div>
+        </div>
      
         </>
     )}
