@@ -15,6 +15,13 @@
     flex-direction: row;
     margin-right: 5vw;
 }
+
+.home-card{
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+
 .al{
     /* display: flex;
   justify-content: center;
